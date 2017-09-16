@@ -1,0 +1,32 @@
+[23-Jul-2017 11:23:58 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 568
+[23-Jul-2017 11:23:58 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 608
+[23-Jul-2017 11:23:58 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 609
+[23-Jul-2017 11:23:58 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 472
+[23-Jul-2017 11:23:58 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 473
+[23-Jul-2017 11:23:59 Asia/Hong_Kong] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php:568) in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create.php on line 182
+[23-Jul-2017 11:25:30 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 569
+[23-Jul-2017 11:25:30 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 609
+[23-Jul-2017 11:25:30 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 610
+[23-Jul-2017 11:25:30 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 472
+[23-Jul-2017 11:25:30 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 473
+[23-Jul-2017 11:25:30 Asia/Hong_Kong] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php:568) in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create.php on line 182
+[23-Jul-2017 11:26:17 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 569
+[23-Jul-2017 11:26:17 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 609
+[23-Jul-2017 11:26:17 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 610
+[23-Jul-2017 11:26:17 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 472
+[23-Jul-2017 11:26:17 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 473
+[23-Jul-2017 11:26:17 Asia/Hong_Kong] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php:951) in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create.php on line 182
+[23-Jul-2017 11:30:20 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 569
+[23-Jul-2017 11:30:20 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 611
+[23-Jul-2017 11:30:20 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 612
+[23-Jul-2017 11:30:20 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 472
+[23-Jul-2017 11:30:20 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 473
+[23-Jul-2017 11:30:20 Asia/Hong_Kong] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php:569) in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create.php on line 182
+[23-Jul-2017 11:32:23 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 613
+[23-Jul-2017 11:32:23 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 614
+[23-Jul-2017 11:32:24 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 472
+[23-Jul-2017 11:32:24 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 473
+[23-Jul-2017 11:32:24 Asia/Hong_Kong] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php:613) in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create.php on line 182
+[23-Jul-2017 11:33:18 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectID in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 472
+[23-Jul-2017 11:33:18 Asia/Hong_Kong] PHP Notice:  Undefined index: subjectName in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php on line 473
+[23-Jul-2017 11:33:18 Asia/Hong_Kong] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create_function.php:472) in /Applications/MAMP/htdocs/gibbon_20/modules/Reporting/pdf_create.php on line 182

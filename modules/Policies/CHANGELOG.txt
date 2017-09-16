@@ -1,0 +1,68 @@
+CHANGELOG
+=========
+v1.1.01
+-------
+Fixed issue leading to inactive policies being displayed in view mode
+
+v1.1.00
+-------
+Switched access settings from role to role or role category
+
+v1.0.13
+-------
+Fixed PHP execution vulnerability
+
+v1.0.12
+-------
+Fixed indentation in beautified PHP code
+
+v1.0.11
+-------
+Beautified PHP code
+Improved error handling
+Edit link added to add return
+
+v1.0.10
+-------
+Gibbon Core v12 & PHP 7 Compatibility
+
+v1.0.09
+-------
+Fixed PHP Strict issues
+
+v1.0.08
+-------
+Sub folder tweak
+
+v1.0.07
+-------
+Added Gibbon v8 compatibility
+
+v1.0.06
+-------
+Fixed PHP short tag issues
+
+v1.0.05
+-------
+Fixed PHP Notice issues
+
+v1.0.04
+-------
+Removed reset buttons
+
+v1.0.03
+-------
+Fixed textarea width issue.
+
+v1.0.02
+-------
+Brought module up to visual refresh standard of Gibbon Core v7
+
+v1.0.01
+-------
+Adjusted policy view to show all a user's roles, not just the current role
+
+v1.0.00
+-------
+Ability to create policy with designated audience
+Ability to view policies

@@ -1,0 +1,59 @@
+CHANGELOG
+=========
+v2.0.06
+-------
+Fixed PHP execution vulnerability 
+
+v2.0.05
+-------
+View Info Grid action hide check (was set, but not working for some reason)
+
+v2.0.04
+-------
+Added custom folder for storing of custom scripts that can be linked to from Info Grid links
+
+v2.0.03
+-------
+More subtle links
+
+v2.0.02
+-------
+Fixed parent grid width issue
+
+v2.0.01
+-------
+Manifest fix
+
+v2.0.00
+-------
+Change from Info Grid, to more general Info Grid
+
+v1.0.05
+-------
+Fixed indentation in beautified PHP code
+
+v1.0.04
+-------
+Beautified PHP code
+Improved error handling
+Edit link added to add return
+
+v1.0.03
+-------
+___( fix
+
+v1.0.02
+-------
+Gibbon Core v12 & PHP 7 Compatibility
+
+v1.0.01
+-------
+Tweaked icon size
+Made internal links open in current tab, not new tab
+Added edit link to handbook view, for privileged users
+
+v1.0.00
+-------
+Added ability to define handbook entries
+Added display of handbook entries
+Added staff dashboard hook
